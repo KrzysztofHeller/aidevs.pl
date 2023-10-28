@@ -1,2 +1,2 @@
 # aidevs.pl
-test
+Author Krzysztof Heller
